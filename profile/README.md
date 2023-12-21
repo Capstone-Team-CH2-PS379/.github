@@ -24,7 +24,7 @@ At FluentIn, our vision is to empower everyone to confidently speak a new langua
 
 ## 🤝 Contribute
 
-We are always open to new ideas and contributions that can enrich the learning experience at FluentIn. If you're passionate about language learning and want to contribute, please visit our [Contributors' Guide](LINK TO CONTRIBUTORS' GUIDE).
+We are always open to new ideas and contributions that can enrich the learning experience at FluentIn. If you're passionate about language learning and want to contribute, you cant contact us at [fluentin.official@gmail.com](mailto:fluentin.official@gmail.com).
 
 ## 📫 Contact Us
 
