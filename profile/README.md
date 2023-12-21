@@ -4,11 +4,17 @@
 
 FluentIn is more than just a language learning app. We innovate in language education by focusing on real-life situations. Designed to equip you with practical speaking skills, FluentIn enables you to communicate confidently across various real-world contexts, like home, school, or social situations.
 
+## 📷 Peek into the  App
+* Initial Interface
+  <a href="./gambar/login.png"><img src="./gambar/login.png" alt="Ini adalah gambar tampilan awal" width="300"></a>
+
+* Learning Experience
+  <a href="./gambar/tampilan-pembelajaran.png"><img src="./gambar/tampilan-pembelajaran.png" alt="Ini adalah tampilan pembelajaran" width="300"></a>
+
 ## 🚀 Key Features
 
 FluentIn offers unique, speaking-focused features:
 - **Situation-Based Learning**: Our modules are tailored to specific real-life scenarios, helping you learn languages in the contexts you'll actually use them.
-- **Real-Life Conversation Simulations**: Enhance your speaking skills with simulations that mirror real-life interactions.
 - **Advanced Speech Recognition Technology**: Our state-of-the-art technology aids in refining pronunciation and intonation.
 - **Practical and Relevant Lessons**: We emphasize language learning that's not just theoretical but immediately applicable to your daily life.
 
