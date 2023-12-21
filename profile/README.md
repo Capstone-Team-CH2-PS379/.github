@@ -5,11 +5,11 @@
 FluentIn is more than just a language learning app. We innovate in language education by focusing on real-life situations. Designed to equip you with practical speaking skills, FluentIn enables you to communicate confidently across various real-world contexts, like home, school, or social situations.
 
 ## 📷 Peek into the  App
-* Initial Interface
-  <a href="./gambar/login.png"><img src="./gambar/login.png" alt="Ini adalah gambar tampilan awal" width="300"></a>
+1, Initial Interface
+  <a href="profile/gambar/login.png"><img src="profi/gambar/login.png" alt="Ini adalah gambar tampilan awal" width="300"></a>
 
-* Learning Experience
-  <a href="./gambar/tampilan-pembelajaran.png"><img src="./gambar/tampilan-pembelajaran.png" alt="Ini adalah tampilan pembelajaran" width="300"></a>
+2. Learning Experience
+  <a href="profile/gambar/tampilan-pembelajaran.png"><img src="./gambar/tampilan-pembelajaran.png" alt="Ini adalah tampilan pembelajaran" width="300"></a>
 
 ## 🚀 Key Features
 
