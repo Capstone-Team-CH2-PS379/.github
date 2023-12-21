@@ -5,7 +5,7 @@
 FluentIn is more than just a language learning app. We innovate in language education by focusing on real-life situations. Designed to equip you with practical speaking skills, FluentIn enables you to communicate confidently across various real-world contexts, like home, school, or social situations.
 
 ## 📷 Peek into the  App
-1, Initial Interface
+1. Initial Interface
   <br><a href="/profile/gambar/login.png"><img src="/profile/gambar/login.png" alt="Ini adalah gambar tampilan awal" width="300"></a>
 
 2. Learning Experience
@@ -24,7 +24,7 @@ At FluentIn, our vision is to empower everyone to confidently speak a new langua
 
 ## 🤝 Contribute
 
-We are always open to new ideas and contributions that can enrich the learning experience at FluentIn. If you're passionate about language learning and want to contribute, you cant contact us at [fluentin.official@gmail.com](mailto:fluentin.official@gmail.com).
+We are always open to new ideas and contributions that can enrich the learning experience at FluentIn. If you're passionate about language learning and want to contribute, you can contact us at [fluentin.official@gmail.com](mailto:fluentin.official@gmail.com).
 
 ## 📫 Contact Us
 
