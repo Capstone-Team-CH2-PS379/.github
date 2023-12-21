@@ -6,10 +6,10 @@ FluentIn is more than just a language learning app. We innovate in language educ
 
 ## 📷 Peek into the  App
 1, Initial Interface
-  <a href="profile/gambar/login.png"><img src="profi/gambar/login.png" alt="Ini adalah gambar tampilan awal" width="300"></a>
+  <a href="/profile/gambar/login.png"><img src="profi/gambar/login.png" alt="Ini adalah gambar tampilan awal" width="300"></a>
 
 2. Learning Experience
-  <a href="profile/gambar/tampilan-pembelajaran.png"><img src="./gambar/tampilan-pembelajaran.png" alt="Ini adalah tampilan pembelajaran" width="300"></a>
+  <a href="/profile/gambar/tampilan-pembelajaran.png"><img src="./gambar/tampilan-pembelajaran.png" alt="Ini adalah tampilan pembelajaran" width="300"></a>
 
 ## 🚀 Key Features
 
