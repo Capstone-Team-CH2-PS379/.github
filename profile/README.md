@@ -22,6 +22,6 @@ We are always open to new ideas and contributions that can enrich the learning e
 
 ## 📫 Contact Us
 
-For inquiries, collaborations, or suggestions, feel free to contact us at [email@fluentin.com](mailto:email@fluentin.com).
+For inquiries, collaborations, or suggestions, feel free to contact us at [fluentin.official@gmail.com](mailto:fluentin.official@gmail.com).
 
 Join us at FluentIn and start speaking a new language with confidence in the real situations you face every day!
